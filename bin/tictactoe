@@ -8,7 +8,7 @@ def game_start
   puts "What kind of game will you like to play? Please choose player mode:
   0 - Computer VS Computer
   1 - You VS Computer
-  2 - You VS Your friend"
+  2 - You VS Other"
 
   player_mode = gets.strip
 
